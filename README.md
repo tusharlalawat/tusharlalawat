@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [tusharlalawat.github.io/portfolio/](tusharlalawat.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tusharlalawat.github.io/portfolio/)
 
 - 📫 How to reach me **tushar.lalawat7781@gmail.com**
 
